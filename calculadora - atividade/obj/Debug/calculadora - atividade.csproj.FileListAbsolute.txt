@@ -1,0 +1,7 @@
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\calculadora - atividade\bin\Debug\calculadora - atividade.exe.config
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\calculadora - atividade\bin\Debug\calculadora - atividade.exe
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\calculadora - atividade\bin\Debug\calculadora - atividade.pdb
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\calculadora - atividade\obj\Debug\calculadora - atividade.csproj.AssemblyReference.cache
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\calculadora - atividade\obj\Debug\calculadora - atividade.csproj.CoreCompileInputs.cache
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\calculadora - atividade\obj\Debug\calculadora - atividade.exe
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\calculadora - atividade\obj\Debug\calculadora - atividade.pdb

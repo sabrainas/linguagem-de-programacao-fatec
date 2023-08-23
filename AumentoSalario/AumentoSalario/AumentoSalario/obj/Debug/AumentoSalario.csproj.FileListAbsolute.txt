@@ -1,0 +1,6 @@
+C:\Users\aluno_lab4\Documents\sasa\AumentoSalario\AumentoSalario\bin\Debug\AumentoSalario.exe.config
+C:\Users\aluno_lab4\Documents\sasa\AumentoSalario\AumentoSalario\bin\Debug\AumentoSalario.exe
+C:\Users\aluno_lab4\Documents\sasa\AumentoSalario\AumentoSalario\bin\Debug\AumentoSalario.pdb
+C:\Users\aluno_lab4\Documents\sasa\AumentoSalario\AumentoSalario\obj\Debug\AumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Documents\sasa\AumentoSalario\AumentoSalario\obj\Debug\AumentoSalario.exe
+C:\Users\aluno_lab4\Documents\sasa\AumentoSalario\AumentoSalario\obj\Debug\AumentoSalario.pdb

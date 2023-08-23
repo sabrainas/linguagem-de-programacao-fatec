@@ -1,0 +1,7 @@
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\media - atividade\bin\Debug\media - atividade.exe.config
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\media - atividade\bin\Debug\media - atividade.exe
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\media - atividade\bin\Debug\media - atividade.pdb
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\media - atividade\obj\Debug\media - atividade.csproj.AssemblyReference.cache
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\media - atividade\obj\Debug\media - atividade.csproj.CoreCompileInputs.cache
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\media - atividade\obj\Debug\media - atividade.exe
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\media - atividade\obj\Debug\media - atividade.pdb

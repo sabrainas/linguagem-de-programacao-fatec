@@ -1,0 +1,7 @@
+C:\Users\aluno_lab4\source\repos\NumeroPar\NumeroPar\obj\Debug\NumeroPar.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\source\repos\NumeroPar\NumeroPar\obj\Debug\NumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\NumeroPar\NumeroPar\bin\Debug\NumeroPar.exe.config
+C:\Users\aluno_lab4\source\repos\NumeroPar\NumeroPar\bin\Debug\NumeroPar.exe
+C:\Users\aluno_lab4\source\repos\NumeroPar\NumeroPar\bin\Debug\NumeroPar.pdb
+C:\Users\aluno_lab4\source\repos\NumeroPar\NumeroPar\obj\Debug\NumeroPar.exe
+C:\Users\aluno_lab4\source\repos\NumeroPar\NumeroPar\obj\Debug\NumeroPar.pdb

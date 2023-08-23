@@ -1,0 +1,14 @@
+C:\Users\aluno_lab4\Documents\sabrina\first\soma - atividade\obj\Debug\soma - atividade.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\Documents\sabrina\first\soma - atividade\obj\Debug\soma - atividade.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Documents\sabrina\first\soma - atividade\bin\Debug\soma - atividade.exe.config
+C:\Users\aluno_lab4\Documents\sabrina\first\soma - atividade\bin\Debug\soma - atividade.exe
+C:\Users\aluno_lab4\Documents\sabrina\first\soma - atividade\bin\Debug\soma - atividade.pdb
+C:\Users\aluno_lab4\Documents\sabrina\first\soma - atividade\obj\Debug\soma - atividade.exe
+C:\Users\aluno_lab4\Documents\sabrina\first\soma - atividade\obj\Debug\soma - atividade.pdb
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\soma - atividade\bin\Debug\soma - atividade.exe.config
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\soma - atividade\bin\Debug\soma - atividade.exe
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\soma - atividade\bin\Debug\soma - atividade.pdb
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\soma - atividade\obj\Debug\soma - atividade.csproj.AssemblyReference.cache
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\soma - atividade\obj\Debug\soma - atividade.csproj.CoreCompileInputs.cache
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\soma - atividade\obj\Debug\soma - atividade.exe
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\soma - atividade\obj\Debug\soma - atividade.pdb
