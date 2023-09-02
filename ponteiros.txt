@@ -1,0 +1,27 @@
+Ponteiros
+ - é uma variável que aponta sempre para outra variável de um determinado tipo. Para indicar que uma variável é do tipo ponteiro, coloca-se um asterisco antes dela
+ - O C permite que o programadador referencie a posição de objetos bem como os próprios objetos (isto é, o conteúdo de suas posições). Por exemplo, se x for declarado como um inteiro &x se referirá à posição  reservada para conter x. &x é chamado de ponteiro
+
+Declaração
+	tipo * nome
+
+	tipo: é o tipo da variável para a qual apontará
+	*: indica que a variável é um tipo ponteiro
+	nome: nome da variável do tipo ponteiro
+
+ex: int * xpto;
+    char *pont;
+
+Atribuir o endereço de outra variável no ponteiro
+xpto = &variável
+
+	ptr   ch
+|  |40|  |'A'|  |
+ 10 20 30 40  50
+
+	ptr aponta para chamado	
+	para isso, armazena o seu endereço
+	 
+char ch;
+char * ptr;
+ptr = &char;
