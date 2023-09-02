@@ -1,0 +1,7 @@
+C:\Users\aluno_lab4\Documents\sasa\Atividade29-08\Atividade29-08\bin\Debug\Atividade29-08.exe.config
+C:\Users\aluno_lab4\Documents\sasa\Atividade29-08\Atividade29-08\bin\Debug\Atividade29-08.exe
+C:\Users\aluno_lab4\Documents\sasa\Atividade29-08\Atividade29-08\bin\Debug\Atividade29-08.pdb
+C:\Users\aluno_lab4\Documents\sasa\Atividade29-08\Atividade29-08\obj\Debug\Atividade29-08.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\Documents\sasa\Atividade29-08\Atividade29-08\obj\Debug\Atividade29-08.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Documents\sasa\Atividade29-08\Atividade29-08\obj\Debug\Atividade29-08.exe
+C:\Users\aluno_lab4\Documents\sasa\Atividade29-08\Atividade29-08\obj\Debug\Atividade29-08.pdb

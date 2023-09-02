@@ -1,0 +1,7 @@
+C:\Users\wrmri\source\repos\Atividade2_29-08\Atividade2_29-08\obj\Debug\Atividade2_29-08.csproj.AssemblyReference.cache
+C:\Users\wrmri\source\repos\Atividade2_29-08\Atividade2_29-08\obj\Debug\Atividade2_29-08.csproj.CoreCompileInputs.cache
+C:\Users\wrmri\source\repos\Atividade2_29-08\Atividade2_29-08\bin\Debug\Atividade2_29-08.exe.config
+C:\Users\wrmri\source\repos\Atividade2_29-08\Atividade2_29-08\bin\Debug\Atividade2_29-08.exe
+C:\Users\wrmri\source\repos\Atividade2_29-08\Atividade2_29-08\bin\Debug\Atividade2_29-08.pdb
+C:\Users\wrmri\source\repos\Atividade2_29-08\Atividade2_29-08\obj\Debug\Atividade2_29-08.exe
+C:\Users\wrmri\source\repos\Atividade2_29-08\Atividade2_29-08\obj\Debug\Atividade2_29-08.pdb
