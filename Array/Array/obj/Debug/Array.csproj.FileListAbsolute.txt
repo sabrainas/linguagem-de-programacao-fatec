@@ -1,0 +1,7 @@
+C:\Users\aluno_lab4\Documents\sasa\Array\Array\bin\Debug\Array.exe.config
+C:\Users\aluno_lab4\Documents\sasa\Array\Array\bin\Debug\Array.exe
+C:\Users\aluno_lab4\Documents\sasa\Array\Array\bin\Debug\Array.pdb
+C:\Users\aluno_lab4\Documents\sasa\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\Documents\sasa\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Documents\sasa\Array\Array\obj\Debug\Array.exe
+C:\Users\aluno_lab4\Documents\sasa\Array\Array\obj\Debug\Array.pdb
