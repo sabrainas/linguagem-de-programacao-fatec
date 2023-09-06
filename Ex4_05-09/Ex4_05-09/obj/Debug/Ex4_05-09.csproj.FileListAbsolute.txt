@@ -1,0 +1,7 @@
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\Ex4_05-09\Ex4_05-09\bin\Debug\Ex4_05-09.exe.config
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\Ex4_05-09\Ex4_05-09\bin\Debug\Ex4_05-09.exe
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\Ex4_05-09\Ex4_05-09\bin\Debug\Ex4_05-09.pdb
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\Ex4_05-09\Ex4_05-09\obj\Debug\Ex4_05-09.csproj.AssemblyReference.cache
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\Ex4_05-09\Ex4_05-09\obj\Debug\Ex4_05-09.csproj.CoreCompileInputs.cache
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\Ex4_05-09\Ex4_05-09\obj\Debug\Ex4_05-09.exe
+C:\Users\wrmri\OneDrive\Documentos\FATEC\LINGUAGEM DE PROGRAMAÇÃO\Ex4_05-09\Ex4_05-09\obj\Debug\Ex4_05-09.pdb
